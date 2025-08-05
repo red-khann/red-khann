@@ -1,16 +1,44 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Rehan Khan</h1>
+<h3 align="center">🚀 Aspiring AI/ML Engineer | 🎓 BCA Student | 📚 Lifelong Learner</h3>
 
-<!--
-**red-khann/red-khann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+🌱 I’m currently learning:
+- Python, Data Structures, and Machine Learning
+- Courses from Coursera, GFG, and Swayam
+- Building small projects to apply concepts
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👨‍💻 All of my projects will be available at: [github.com/red-khann](https://github.com/red-khann)
+
+📫 How to reach me:
+- Email: [your_email@example.com] *(replace with your real or temp email)*
+- LinkedIn: [Your LinkedIn Profile](#) *(add link later)*
+
+💼 Looking for:
+- Internships or remote work related to Python / AI / Data Science
+
+🛠️ Skills I'm working on:
+- Programming: Python, C, HTML/CSS
+- Tools: Git, GitHub, VS Code, Jupyter Notebook
+- AI/ML: Pandas, NumPy, Scikit-Learn (learning stage)
+
+---
+
+### 🔥 My Goals for 2025:
+- ✅ Complete an AI/ML roadmap with real projects
+- 🚀 Build a strong GitHub portfolio
+- 🏆 Earn certifications with financial aid
+- 🤝 Get an internship in tech/data
+
+---
+
+### 📌 Pinned Projects (Coming Soon!)
+I'll be uploading:
+- Python mini projects
+- ML models (Titanic, Iris, etc.)
+- Data Analysis notebooks
+- My personal portfolio website
+
+---
+
+> “Code. Learn. Build. Repeat.” 💻
