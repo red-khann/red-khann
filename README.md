@@ -11,14 +11,14 @@
 👨‍💻 All of my projects will be available at: [github.com/red-khann](https://github.com/red-khann)
 
 📫 How to reach me:
-- Email: [rehan.khan.786092.rk@gmail.com] *(replace with your real or temp email)*
+- Email: [rehan.khan.786092.rk@gmail.com] *
 - LinkedIn: https://www.linkedin.com/in/mohd-rehan-khan-
 
 💼 Looking for:
 - Internships or remote work related to Python / AI / Data Science
 
 🛠️ Skills I'm working on:
-- Programming: Python, C, HTML/CSS
+- Programming: Python, C
 - Tools: Git, GitHub, VS Code, Jupyter Notebook
 - AI/ML: Pandas, NumPy, Scikit-Learn (learning stage)
 
