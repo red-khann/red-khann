@@ -11,7 +11,7 @@
 👨‍💻 All of my projects will be available at: [github.com/red-khann](https://github.com/red-khann)
 
 📫 How to reach me:
-- Email: [rehan.khan.786092.rk@gmail.com] *
+- Email: *rehan.khan.786092.rk@gmail.com*
 - LinkedIn: https://www.linkedin.com/in/mohd-rehan-khan-
 
 💼 Looking for:
